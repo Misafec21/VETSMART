@@ -1,0 +1,7 @@
+vetsmart_respaldo.pkl
+__pycache__/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store

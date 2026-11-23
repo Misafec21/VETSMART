@@ -1,0 +1,19 @@
+# Tema de VetSmart: azul claro y blanco
+[theme]
+base = "light"
+primaryColor = "#2F8CEB"
+backgroundColor = "#F6FAFF"
+secondaryBackgroundColor = "#EAF4FF"
+textColor = "#12304D"
+font = "sans serif"
+baseRadius = "0.75rem"
+borderColor = "#DCEAF8"
+
+[server]
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
